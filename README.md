@@ -64,8 +64,8 @@ Open to freelance projects and exciting collaborations.
 
 <div align="center">
 
-![Nidheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Nidheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=di-ngan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di-ngan&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
