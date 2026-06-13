@@ -76,8 +76,8 @@ Open to freelance projects and exciting collaborations.
 I'm always up for interesting AI/ML conversations, freelance work, or collaboration on open-source projects.
 
 📬 Drop me a message: imnidheeshv@gmail.com
-🌐 Portfolio: https://nidheesh-portfolio-five.vercel.app/
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nidheesh-v-257858269/)
+🌐 Portfolio: [Nidheesh - V](https://nidheesh-portfolio-five.vercel.app/
+💼 LinkedIn: [nidheeshv](https://www.linkedin.com/in/nidheesh-v-257858269/)
 ---
 
 <div align="center">
